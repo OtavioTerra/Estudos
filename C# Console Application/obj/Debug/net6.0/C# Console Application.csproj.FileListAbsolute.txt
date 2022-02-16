@@ -1,0 +1,15 @@
+D:\workspace\Primeiro repositório\C# Console Application\bin\Debug\net6.0\C# Console Application.exe
+D:\workspace\Primeiro repositório\C# Console Application\bin\Debug\net6.0\C# Console Application.deps.json
+D:\workspace\Primeiro repositório\C# Console Application\bin\Debug\net6.0\C# Console Application.runtimeconfig.json
+D:\workspace\Primeiro repositório\C# Console Application\bin\Debug\net6.0\C# Console Application.dll
+D:\workspace\Primeiro repositório\C# Console Application\bin\Debug\net6.0\ref\C# Console Application.dll
+D:\workspace\Primeiro repositório\C# Console Application\bin\Debug\net6.0\C# Console Application.pdb
+D:\workspace\Primeiro repositório\C# Console Application\obj\Debug\net6.0\C# Console Application.csproj.AssemblyReference.cache
+D:\workspace\Primeiro repositório\C# Console Application\obj\Debug\net6.0\C# Console Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\Primeiro repositório\C# Console Application\obj\Debug\net6.0\C# Console Application.AssemblyInfoInputs.cache
+D:\workspace\Primeiro repositório\C# Console Application\obj\Debug\net6.0\C# Console Application.AssemblyInfo.cs
+D:\workspace\Primeiro repositório\C# Console Application\obj\Debug\net6.0\C# Console Application.csproj.CoreCompileInputs.cache
+D:\workspace\Primeiro repositório\C# Console Application\obj\Debug\net6.0\C# Console Application.dll
+D:\workspace\Primeiro repositório\C# Console Application\obj\Debug\net6.0\ref\C# Console Application.dll
+D:\workspace\Primeiro repositório\C# Console Application\obj\Debug\net6.0\C# Console Application.pdb
+D:\workspace\Primeiro repositório\C# Console Application\obj\Debug\net6.0\C# Console Application.genruntimeconfig.cache
